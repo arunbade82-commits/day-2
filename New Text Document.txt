@@ -1,0 +1,6 @@
+git init 
+git add .
+git commit -m"add new file"
+git add remote origin url
+git push -u origin master
+
